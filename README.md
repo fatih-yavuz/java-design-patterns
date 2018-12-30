@@ -47,7 +47,8 @@ CTIS has two separate internship applications. CTIS290 and CTIS310. Both of thes
 applications keep a student’s name, id, and the company. However, CTIS290 uses an ArrayList, CTIS310
 uses Array. CTIS department would like merge these two separate applications
 ```
-
+### UML Class Diagram
+![Output](https://image.prntscr.com/image/wVJlSr1oTdOhGuBYEXghoQ.png)
 ### Output
 ![Output](https://image.prntscr.com/image/VSWTexPbRS_3R7u6e4WeJQ.png)
 
