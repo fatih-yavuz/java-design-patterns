@@ -1,14 +1,22 @@
 # Design Patterns
 
 ## Abstract Factory
+```
+Display price of the laptop parts (CPU and RAM) based on manufacturer (Dell,
+IBM, and HP) and usage (Home, Business, and Gaming).
+```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/_ii__S1LR3G6TR96DGZxZw.png)
 
 ## Command Pattern
+```
+Simulate pressing remote control buttons to move a drone to various angular rotations (0, 90,
+180, 270, and 360 degrees). Also, simulate pressing an undo button, to move drone to previous rotation. 
+```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/PWKV-KC4SY2OtbVGxvTMqg.png)
 
 ## Composite
 ```
@@ -25,9 +33,13 @@ total effort of a software engineering project.
 
 
 ## Factory Method
+```
+Display price of a laptop based on manufacturer (Dell, IBM, and HP) and usage
+(Home, Business, and Gaming).
+```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/yR4w5eRRS5u_gvNSznsScA.png)
 
 ## Iterator
 ```
@@ -37,12 +49,15 @@ uses Array. CTIS department would like merge these two separate applications
 ```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/VSWTexPbRS_3R7u6e4WeJQ.png)
 
 ## Singleton
+```
+Write “Hello World” to a log file. This log file has to be accessed by only one object. This
+object should be created with lazy instantiation. Other objects should be able to write to log file only via this
+single object.
+```
 
-### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
 
 ## Strategy
 ```
@@ -51,7 +66,7 @@ algorithm will be set dynamically during run-time.
 ```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/rL0bYnuqReW2MQVCSEF4lw.png)
 
 
 ## Template Method
@@ -62,4 +77,4 @@ enhanced. After an image is processed and optionally enhanced, it can be display
 ```
 
 ### Output
-![Output](https://image.prntscr.com/image/9PU6-p5YQhWb4ZbTeRisRg.png)
+![Output](https://image.prntscr.com/image/giErkXEwT2_s5awpRuqvBQ.png)
