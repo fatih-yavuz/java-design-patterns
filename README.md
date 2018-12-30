@@ -65,7 +65,8 @@ single object.
 A digital audio player application will play either MP3 or MP4 files, and which decoding
 algorithm will be set dynamically during run-time.
 ```
-
+### UML Class Diagram
+![Output](https://image.prntscr.com/image/GxsBBb-KR662nwVQZwxokQ.png)
 ### Output
 ![Output](https://image.prntscr.com/image/rL0bYnuqReW2MQVCSEF4lw.png)
 
