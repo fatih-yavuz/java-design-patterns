@@ -25,6 +25,12 @@ Plan (SPMP) is a tree structure and depicts the work to be done and required eff
 decomposed further until required effort is understood. Write an application which will print the required
 total effort of a software engineering project.
 ```
+
+
+### UML Class Diagram
+![Output](https://image.prntscr.com/image/5lmJOjteRMihYQ-AxkHqeg.png)
+
+
 ### WBS
 ![Image of WBS](https://image.prntscr.com/image/rEsH-RoMTMqpo5yJH0SceA.png)
 
@@ -77,6 +83,7 @@ algorithm will be set dynamically during run-time.
 file and then loads to memory. Depending on the type of file, an image is processed differently, and can be
 enhanced. After an image is processed and optionally enhanced, it can be displayed.
 ```
-
+### UML Class Diagram
+![Output](https://image.prntscr.com/image/58frH9vOQomyy7u0mMcz1A.png)
 ### Output
 ![Output](https://image.prntscr.com/image/giErkXEwT2_s5awpRuqvBQ.png)
