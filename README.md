@@ -1,9 +1,6 @@
 #Design Patterns
 
 ## Abstract Factory
-```
-
-``
 
 ##Command Pattern
 
